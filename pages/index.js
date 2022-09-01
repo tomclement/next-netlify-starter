@@ -11,10 +11,17 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Hi! 👋🏾" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          My name is Tom Clement Oketch. Welcome to my site.
         </p>
+        <p className="description">
+          I build software and make music.
+        </p>
+        <p className="description">
+          Find me on <a href="http://linkedin.com/in/tomoketch/">LinkedIn</a>, <a href="https://twitter.com/tc_oketch">Twitter</a> or <a href="http://github.com/tomclement">GitHub</a>.
+         </p>
+
       </main>
 
       <Footer />
